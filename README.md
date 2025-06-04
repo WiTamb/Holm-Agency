@@ -2,4 +2,5 @@
 ## 🌐 Live Preview
 
 [Click here to view the website](https://witamb.github.io/Holm-Agency/)
-![Uploading image.png…]()
+[![Website Preview](images/preview.jpg)](https://witamb.github.io/Holm-Agency/)
+
